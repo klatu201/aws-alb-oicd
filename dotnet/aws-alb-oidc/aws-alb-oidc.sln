@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aws-alb-oidc", "aws-alb-oidc\aws-alb-oidc.csproj", "{C10F98F9-47AB-4FB5-97D0-9EFE95736A78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aws-alb-oidc.web", "aws-alb-oidc.web\aws-alb-oidc.web.csproj", "{BCC4D312-CCB0-4620-A2D6-9CF1AF9956D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C10F98F9-47AB-4FB5-97D0-9EFE95736A78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C10F98F9-47AB-4FB5-97D0-9EFE95736A78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C10F98F9-47AB-4FB5-97D0-9EFE95736A78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C10F98F9-47AB-4FB5-97D0-9EFE95736A78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCC4D312-CCB0-4620-A2D6-9CF1AF9956D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCC4D312-CCB0-4620-A2D6-9CF1AF9956D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCC4D312-CCB0-4620-A2D6-9CF1AF9956D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCC4D312-CCB0-4620-A2D6-9CF1AF9956D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E293759C-F6D1-4C0F-9DF4-5D465F9B6BDF}
+	EndGlobalSection
+EndGlobal
